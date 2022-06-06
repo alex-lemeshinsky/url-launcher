@@ -3,10 +3,7 @@
 # Files and directories created by pub
 .dart_tool/
 .packages
-<<<<<<< HEAD
 .idea/
-=======
->>>>>>> 6a749291d541b6158e600e73b3aaacc706ff8675
 build/
 # If you're building an application, you may want to check-in your pubspec.lock
 pubspec.lock
@@ -23,7 +20,3 @@ doc/api/
 *.js_
 *.js.deps
 *.js.map
-<<<<<<< HEAD
-*.properties
-=======
->>>>>>> 6a749291d541b6158e600e73b3aaacc706ff8675
